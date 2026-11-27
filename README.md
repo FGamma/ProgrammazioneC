@@ -5,9 +5,6 @@
 
 Raccolta di esercizi in linguaggio C, organizzati per argomento.
 
-Raccolta di esercizi in linguaggio C, organizzati per argomento.
-Ogni cartella contiene un gruppo di esercizi, ognuno in un file `.c` indipendente con il proprio `main()`.
-
 ## Argomenti
 
 - `01-basi`
