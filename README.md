@@ -6,12 +6,12 @@ Ogni cartella contiene un gruppo di esercizi, ognuno in un file `.c` indipendent
 ## Argomenti
 
 - `01-basi`
-- `02-cicli`: for, while, do-while
-- `03-vettori`: vettori e matrici
-- `04-stringhe`: manipolazione di stringhe
-- `05-matrici`: funzioni e passaggio dei parametri
-- `06-funzioni`: puntatori e memoria dinamica
-- `07-file`: lettura e scrittura di file
+- `02-cicli`
+- `03-vettori`
+- `04-stringhe`
+- `05-matrici`
+- `06-funzioni`
+- `07-file`
 
 ## Come compilare ed eseguire
 
