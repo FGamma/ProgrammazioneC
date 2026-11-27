@@ -1,5 +1,10 @@
 # Programmazione C
 
+> `printf("hello, world\n");`
+> — Kernighan & Ritchie, 1978
+
+Raccolta di esercizi in linguaggio C, organizzati per argomento.
+
 Raccolta di esercizi in linguaggio C, organizzati per argomento.
 Ogni cartella contiene un gruppo di esercizi, ognuno in un file `.c` indipendente con il proprio `main()`.
 
